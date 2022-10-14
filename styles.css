@@ -14,3 +14,13 @@
     border-radius: 16px;
     margin-top: 16px;
 }
+
+footer {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    background-color: rebeccapurple;
+    padding: 24px;
+    border-radius: 16px;
+    margin-top: 16px;
+}
