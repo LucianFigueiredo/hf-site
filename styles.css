@@ -4,3 +4,13 @@
     padding: 24px;
     border-radius: 16px;  
 }
+
+.someDescription {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    background-color: #987655;
+    padding: 24px;
+    border-radius: 16px;
+    margin-top: 16px;
+}
