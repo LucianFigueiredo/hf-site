@@ -1,8 +1,17 @@
+header {
+    background-color: greenyellow;
+    width: 240px;
+    padding: 24px;
+    border-radius: 16px;
+    margin-top: 16px;
+}
+
 .card1 {
     width: 240px;
     background-color: #ededed;
     padding: 24px;
-    border-radius: 16px;  
+    border-radius: 16px;
+    margin-top: 16px;  
 }
 
 .someDescription {
@@ -25,7 +34,10 @@ aside {
 
 footer {
     width: 240px;
+    padding: 24px;
     display: flex;
     flex-direction: column;
-    background-color: rebeccapurple;
+    background-color: gainsboro;
+    border-radius: 16px;
+    margin-top: 16px;
 }
