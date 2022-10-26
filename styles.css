@@ -7,11 +7,12 @@ header {
 }
 
 .card1 {
-    width: 240px;
-    background-color: #ededed;
-    padding: 24px;
-    border-radius: 16px;
-    margin-top: 16px;  
+    width: 480px;
+    background-color: #dedede;
+    padding: 28px;
+    border-radius: 18px;
+    margin-top: 18px;
+    font-size: 16px;
 }
 
 .someDescription {
